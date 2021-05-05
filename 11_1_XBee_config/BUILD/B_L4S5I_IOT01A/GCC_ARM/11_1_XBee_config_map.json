@@ -1,0 +1,76 @@
+[
+    {
+        "module": "../..",
+        "size": {
+            ".text": 34530,
+            ".data": 444,
+            ".bss": 11038,
+            ".text-delta": 34530,
+            ".data-delta": 444,
+            ".bss-delta": 11038
+        }
+    },
+    {
+        "module": "BUILD/B_L4S5I_IOT01A",
+        "size": {
+            ".text": 994,
+            ".data": 0,
+            ".bss": 1998,
+            ".text-delta": 994,
+            ".data-delta": 0,
+            ".bss-delta": 1998
+        }
+    },
+    {
+        "module": "[fill]",
+        "size": {
+            ".text": 116,
+            ".data": 8,
+            ".bss": 31,
+            ".text-delta": 116,
+            ".data-delta": 8,
+            ".bss-delta": 31
+        }
+    },
+    {
+        "module": "[lib]/c.a",
+        "size": {
+            ".text": 28692,
+            ".data": 2472,
+            ".bss": 89,
+            ".text-delta": 28692,
+            ".data-delta": 2472,
+            ".bss-delta": 89
+        }
+    },
+    {
+        "module": "[lib]/gcc.a",
+        "size": {
+            ".text": 3264,
+            ".data": 0,
+            ".bss": 0,
+            ".text-delta": 3264,
+            ".data-delta": 0,
+            ".bss-delta": 0
+        }
+    },
+    {
+        "module": "[lib]/misc",
+        "size": {
+            ".text": 180,
+            ".data": 4,
+            ".bss": 28,
+            ".text-delta": 180,
+            ".data-delta": 4,
+            ".bss-delta": 28
+        }
+    },
+    {
+        "summary": {
+            "static_ram": 16112,
+            "static_ram_delta": 16112,
+            "total_flash": 70704,
+            "total_flash_delta": 70704
+        }
+    }
+]
